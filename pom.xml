@@ -1347,7 +1347,7 @@
     <ehcache.version>2.10.2.2.21</ehcache.version>
     <jboss.logging.version>3.4.1.Final</jboss.logging.version>
     <quartz.version>2.3.2</quartz.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito-core.version>2.23.0</mockito-core.version>
     <maven.dependency.plugin.version>2.10</maven.dependency.plugin.version>
     <maven.surefire.plugin.version>2.22.2</maven.surefire.plugin.version>
