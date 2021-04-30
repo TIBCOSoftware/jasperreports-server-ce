@@ -1374,7 +1374,7 @@
     <commons-configuration.version>2.7</commons-configuration.version>
     <infinispan.version>10.1.8.Final</infinispan.version>
     <jgroups.version>4.1.9.Final</jgroups.version>
-    <bcprov-jdk15on.version>1.65</bcprov-jdk15on.version>
+    <bcprov-jdk15on.version>1.68</bcprov-jdk15on.version>
     <failsafe.version>2.3.4</failsafe.version>
   </properties>
 
